@@ -1,6 +1,10 @@
 import java.io.*;
 class ADemo
 {
+ public void cashWithdraw(double amount)
+  {
+   System.out.println("Hello");
+ } 
   public static void main(String[] args)
    {
         Console c=System.console();
